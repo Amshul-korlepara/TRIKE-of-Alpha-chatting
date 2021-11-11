@@ -1,0 +1,27 @@
+body
+{
+    height: 100%;
+    margin: 80px;
+ background-color: red !important;
+
+
+}
+ .IMG
+ {
+    width: 80px;
+    margin-left: -30px;
+    padding-left: 30px;
+
+ }
+ .header{
+
+color:silver;
+height: 100px;
+background-color: red;
+
+
+ }
+.dunno{
+background-color: seagreen;
+width:500px;
+}
